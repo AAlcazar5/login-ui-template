@@ -1,2 +1,2 @@
 # login-ui-template
-Login HTML for BayValleyTech.
+Login Template for BayValleyTech.
